@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    padding: 0.30em 0 0.3em 0;
+    color: white;
+    font-size: 5em;
+    text-align: center;
+    background-color: #069;
+}
+
+footer {
+    background-color: #069;
+    color: white;
+    font-size: 1.25rem;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.about-me {
+    margin: 20px;
+}
+
+.about-me h1 {
+    margin-bottom: 20px;
+}
+
+.about-me p {
+    margin: 10px;
+}
+
+.skills {
+    color: white;
+    padding-bottom: 20px;
+    background-color: #069;
+}
+
+.skills h1 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.skills ul {
+    font-style: italic;
+    list-style-type: none;
+
+}
+
+.projects img {
+    width: 10%;
+}
+
+.projects h1 {
+    padding: 20px;
+}
+
+.one,
+.two {
+    padding: 20px;
+    padding-left: 20px;
+}
+
+.contact-me {
+    padding: 20px;
+}
